@@ -1,11 +1,10 @@
 {
-  "author": "Ismael Ghalimi <ismael@stoic.com>",
-  "name": "formulajs",
+  "name": "sm-formulajs",
   "description": "JavaScript implementation of most Microsoft Excel formula functions",
-  "version": "1.0.7",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:sutoiku/formula.js.git"
+    "url": "https://github.com/pingyuanChen/formula.js"
   },
   "main": "index.js",
   "bin": {
@@ -14,6 +13,7 @@
   "dependencies": {
     "bessel": "0.2.0",
     "jStat": "1.0.6",
+    "lodash": "^4.14.0",
     "numeral": "1.5.3",
     "numeric": "1.2.6"
   },
