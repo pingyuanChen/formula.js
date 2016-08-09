@@ -6,3 +6,4 @@ coverage-report.html
 test/generated
 .idea
 tmp
+*.DS_Store
